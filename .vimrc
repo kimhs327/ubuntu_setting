@@ -16,7 +16,6 @@ set cindent
 set autoindent
 set smartindent
 set ruler
-set sw=1
 
 au BufReadPost *
 \ if line("'\"") > 0 && line("'\"") <= line("$") |
