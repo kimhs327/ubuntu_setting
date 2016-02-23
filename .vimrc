@@ -1,6 +1,5 @@
 set number
 set ai
-set si
 set tabstop=4
 set ignorecase
 set hlsearch
